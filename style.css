@@ -1,0 +1,22 @@
+img{
+    height: 350px;
+}
+p{
+   color: #15143966; 
+}
+h2{
+    color: #1E0E62;
+}
+button{
+    background: transparent;
+    color: #1E0E62 !important;
+    
+
+}
+
+@media(max-width:700px){
+    img{
+        max-width: 100%; 
+        max-height: 60%;
+    }
+}
